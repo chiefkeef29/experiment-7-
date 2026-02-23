@@ -125,18 +125,17 @@ Algorithm: Choose a Number from a List
 	12.	Stop
 	
 
-
-Experiment : Sum of First n Natural Numbers
+Algorithm: Print Odd Numbers Between 1 and 10
 	1.	Start
-	2.	Input number n
-	3.	Initialize sum = 0, i = 1
-	4.	While i <= n
-	5.	Add i to sum
-	6.	Increment i
-	7.	Display sum
+	2.	Initialize i = 1
+	3.	While i <= 10
+	4.	If i % 2 != 0
+	5.	Print i
+	6.	Increment i by 1
+	7.	Repeat steps 3–6 until condition becomes false
 	8.	Stop
 
-	
+
 
 ⸻
 
